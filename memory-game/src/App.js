@@ -1,5 +1,4 @@
-import Cards from './components/Cards'
-
+import Cards from './components/Cards';
 function App() {
   return (
     <div className="App">
@@ -8,5 +7,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
